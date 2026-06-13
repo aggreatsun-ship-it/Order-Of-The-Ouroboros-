@@ -1,0 +1,27 @@
+; Engine configuration file.
+; It's best edited using the editor UI and not directly,
+; since the parameters that go here are not all obvious.
+;
+; Format:
+;   [section] ; section goes between []
+;   param=value ; assign values to parameters
+
+config_version=5
+
+[application]
+
+config/name="Order of the Ouroboros"
+config/version="0.1.0"
+run/main_scene="res://scenes/main.tscn"
+config/features=PackedStringArray("4.1", "GL Rendering")
+config/icon="res://assets/icon.svg"
+
+[physics]
+
+common/physics_fps=60
+
+[rendering]
+
+renderer/rendering_method="gl_compatibility"
+environment/ambient_light/enabled=true
+environment/ambient_light/energy=1.5
