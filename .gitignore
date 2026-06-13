@@ -1,4 +1,4 @@
-; Godot-specific ignores
+# Godot-specific ignores
 .godot/
 *.exe
 *.dll
@@ -21,12 +21,10 @@ data_*/
 __pycache__/
 *.py[cod]
 *$py.class
-*.so
 
 # C extensions
 *.o
 *.a
-*.so
 
 # Distribution / packaging
 .Python
