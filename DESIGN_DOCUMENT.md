@@ -12,7 +12,7 @@ An action RPG where players embody angelic alchemists undergoing inner alchemy t
 
 ---
 
-## 2. CHARACTER ARCHETYPES (9 Playable Characters)
+## 2. CHARACTER ARCHETYPES (10 Playable Characters)
 
 1. **Serpent Guardian - Fermentation** (Green, venomous, aggressive)
    - Weapon: [Primary weapon]
@@ -38,16 +38,20 @@ An action RPG where players embody angelic alchemists undergoing inner alchemy t
 7. **Veiled Initiate - Conjunction** (Void, mystery, purple magic)
    - Weapon: [Primary weapon]
 
-8. **ZOOKU - The Aztec Warrior - Fermentation** (Aztec warrior vibe, earth elements)
-   - Weapon: Obsidian Club (OMRADAHNU)
+8. **OMRADAHNU** (Warrior, chakram master)
+   - Weapon: Chakrams
+   - Elements: [Combat elements]
+
+9. **ZOOKU - The Aztec Warrior - Fermentation** (Aztec warrior vibe, earth elements)
+   - Weapon: Obsidian Club
    - Elements: Earth magic, ancestral power, ritual combat
 
-9. **SIRENAURA - Water Deity Elder - Dissolution** (Aquatic, siren/mermaid elements, elder wisdom)
-   - Weapon: Chakrams
-   - Spirit Animal: Dolphin
-   - Elements: Water deity magic, siren songs, elder knowledge
-   - Heritage: Elder from Shark Tooth's homeland
-   - Traits: Mermaid/siren hybrid form, ancient sea wisdom
+10. **SIRENAURA - Water Deity Elder - Dissolution** (Aquatic, siren/mermaid elements, elder wisdom)
+    - Weapon: Rope Dart
+    - Spirit Animal: Dolphin
+    - Elements: Water deity magic, siren songs, elder knowledge
+    - Heritage: Elder from Shark Tooth's homeland
+    - Traits: Mermaid/siren hybrid form, ancient sea wisdom
 
 ---
 
@@ -71,7 +75,7 @@ An action RPG where players embody angelic alchemists undergoing inner alchemy t
 - **Equipment System** (weapons, armor, talismans)
 - **Moral Choice System** (Light/Shadow/Balanced paths)
 - **Roguelike Mode** (procedural levels, permadeath optional)
-- **Campaign Mode** (9 chapters, story-driven)
+- **Campaign Mode** (10 chapters, story-driven)
 
 ---
 
