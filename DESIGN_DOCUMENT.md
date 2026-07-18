@@ -8,19 +8,46 @@
 **Engine**: Godot 4.x  
 
 **Core Concept**: 
-An action RPG where players embody angelic alchemists undergoing inner alchemy transmutation. Progress through seven transmutation stages (Lead → Copper → Silver → Gold) by battling darkness, mastering alchemical magic, and making moral choices that shape your journey from shadow to light.
+An action RPG where players embody angelic alchemists undergoing inner alchemy transmutation. Progress through seven transmutation stages (Lead → Copper → Silver → Gold) by battling darkness.
 
 ---
 
-## 2. CHARACTER ARCHETYPES (7 Playable Characters)
+## 2. CHARACTER ARCHETYPES (9 Playable Characters)
 
 1. **Serpent Guardian - Fermentation** (Green, venomous, aggressive)
+   - Weapon: [Primary weapon]
+
 2. **Shadow Alchemist - Distillation** (Desert rider, wisdom, balance)
+   - Weapon: Rope Dart
+   - Elements: Dark alchemy, precision strikes
+
 3. **Shark Tooth - Dissolution** (Aquatic, chaos, rhythm)
+   - Weapon: 2 Hunga Mungas
+   - Elements: Water, cyclical rhythm combat
+
 4. **Locke Star - Coagulation** (Fire, rage, explosive)
+   - Weapon: [Primary weapon]
+
 5. **Ancient Sage - Coagulation** (Cosmic, dual-pistols, wisdom)
+   - Weapon: Dual Pistols
+
 6. **Phia - Celestial Oracle** (Divine, light, angelic)
+   - Weapon: [Primary weapon]
+
 7. **Veiled Initiate - Conjunction** (Void, mystery, purple magic)
+   - Weapon: [Primary weapon]
+
+8. **ZOOKU - The Aztec Warrior - Fermentation** (Aztec warrior vibe, earth elements)
+   - Weapon: Obsidian Club (OMRADAHNU)
+   - Chakrams: Primary ranged weapon for elemental strikes
+   - Elements: Earth magic, ancestral power, ritual combat
+
+9. **SIRENAURA - Water Deity Elder - Dissolution** (Aquatic, siren/mermaid elements, elder wisdom)
+   - Weapon: Rope Dart
+   - Spirit Animal: Dolphin
+   - Elements: Water deity magic, siren songs, elder knowledge
+   - Heritage: Elder from Shark Tooth's homeland
+   - Traits: Mermaid/siren hybrid form, ancient sea wisdom
 
 ---
 
@@ -44,7 +71,7 @@ An action RPG where players embody angelic alchemists undergoing inner alchemy t
 - **Equipment System** (weapons, armor, talismans)
 - **Moral Choice System** (Light/Shadow/Balanced paths)
 - **Roguelike Mode** (procedural levels, permadeath optional)
-- **Campaign Mode** (7 chapters, story-driven)
+- **Campaign Mode** (9 chapters, story-driven)
 
 ---
 
