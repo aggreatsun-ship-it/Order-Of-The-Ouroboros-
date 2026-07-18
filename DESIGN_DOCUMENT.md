@@ -22,8 +22,8 @@ An action RPG where players embody angelic alchemists undergoing inner alchemy t
    - Elements: Dark alchemy, precision strikes
 
 3. **Shark Tooth - Dissolution** (Aquatic, chaos, rhythm)
-   - Weapon: [Primary weapon]
-   - Elements: Water, cyclical rhythm combat
+   - Weapon: Mystic Double-Sided Trident (one end curved blade, other end trident prongs)
+   - Elements: Water, cyclical rhythm combat, aquatic chaos
 
 4. **Locke Star - Coagulation** (Fire, rage, explosive)
    - Weapon: [Primary weapon]
