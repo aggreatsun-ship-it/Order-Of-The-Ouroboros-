@@ -46,9 +46,12 @@ An action RPG where players embody angelic alchemists undergoing inner alchemy t
    - Weapon: Obsidian Club
    - Elements: Earth magic, ancestral power, ritual combat
 
-10. **RYNO** (Warrior, dual weapons master)
-    - Weapon: 2 Hunga Mungas
-    - Elements: [Combat elements]
+10. **RYNO — Twin Hunga Munga Earthshaker** (Colossal guardian, earth elemental)
+    - Weapon: Twin Hunga Munga throwing axes (blackened steel and ancient bone)
+    - Appearance: Massive body resembling living granite wrapped in ritual armor with glowing ancestral markings. Braided beard with ancestral bones, horned helm evoking rhinoceros strength, eyes burning with protective fury.
+    - Combat Style: Spins and recalls axes through devastating circular techniques that shatter armor and split the earth. Each footstep creates earthquakes, every swing scatters enemies like shattered stone.
+    - Philosophy: Does not seek conquest—he is the guardian who refuses to let the herd fall.
+    - Elements: Earth, seismic power, ancestral protection
 
 11. **SIRENAURA - Water Deity Elder - Dissolution** (Aquatic, siren/mermaid elements, elder wisdom)
     - Weapon: Rope Dart
