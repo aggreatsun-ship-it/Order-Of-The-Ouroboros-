@@ -12,7 +12,7 @@ An action RPG where players embody angelic alchemists undergoing inner alchemy t
 
 ---
 
-## 2. CHARACTER ARCHETYPES (10 Playable Characters)
+## 2. CHARACTER ARCHETYPES (11 Playable Characters)
 
 1. **Serpent Guardian - Fermentation** (Green, venomous, aggressive)
    - Weapon: [Primary weapon]
@@ -22,7 +22,7 @@ An action RPG where players embody angelic alchemists undergoing inner alchemy t
    - Elements: Dark alchemy, precision strikes
 
 3. **Shark Tooth - Dissolution** (Aquatic, chaos, rhythm)
-   - Weapon: 2 Hunga Mungas
+   - Weapon: [Primary weapon]
    - Elements: Water, cyclical rhythm combat
 
 4. **Locke Star - Coagulation** (Fire, rage, explosive)
@@ -46,7 +46,11 @@ An action RPG where players embody angelic alchemists undergoing inner alchemy t
    - Weapon: Obsidian Club
    - Elements: Earth magic, ancestral power, ritual combat
 
-10. **SIRENAURA - Water Deity Elder - Dissolution** (Aquatic, siren/mermaid elements, elder wisdom)
+10. **RYNO** (Warrior, dual weapons master)
+    - Weapon: 2 Hunga Mungas
+    - Elements: [Combat elements]
+
+11. **SIRENAURA - Water Deity Elder - Dissolution** (Aquatic, siren/mermaid elements, elder wisdom)
     - Weapon: Rope Dart
     - Spirit Animal: Dolphin
     - Elements: Water deity magic, siren songs, elder knowledge
@@ -75,7 +79,7 @@ An action RPG where players embody angelic alchemists undergoing inner alchemy t
 - **Equipment System** (weapons, armor, talismans)
 - **Moral Choice System** (Light/Shadow/Balanced paths)
 - **Roguelike Mode** (procedural levels, permadeath optional)
-- **Campaign Mode** (10 chapters, story-driven)
+- **Campaign Mode** (11 chapters, story-driven)
 
 ---
 
