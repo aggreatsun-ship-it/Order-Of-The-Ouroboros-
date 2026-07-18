@@ -28,8 +28,9 @@ An action RPG where players embody angelic alchemists undergoing inner alchemy t
 4. **Locke Star - Coagulation** (Fire, rage, explosive)
    - Weapon: [Primary weapon]
 
-5. **Ancient Sage - Coagulation** (Cosmic, dual-pistols, wisdom)
-   - Weapon: Dual Pistols
+5. **Ancient Sage - Coagulation** (Cosmic, stone weapons, wisdom)
+   - Weapon: Stone Weapons
+   - Elements: Earth, cosmic wisdom
 
 6. **Phia - Celestial Oracle** (Divine, light, angelic)
    - Weapon: [Primary weapon]
@@ -39,11 +40,10 @@ An action RPG where players embody angelic alchemists undergoing inner alchemy t
 
 8. **ZOOKU - The Aztec Warrior - Fermentation** (Aztec warrior vibe, earth elements)
    - Weapon: Obsidian Club (OMRADAHNU)
-   - Chakrams: Primary ranged weapon for elemental strikes
    - Elements: Earth magic, ancestral power, ritual combat
 
 9. **SIRENAURA - Water Deity Elder - Dissolution** (Aquatic, siren/mermaid elements, elder wisdom)
-   - Weapon: Rope Dart
+   - Weapon: Chakrams
    - Spirit Animal: Dolphin
    - Elements: Water deity magic, siren songs, elder knowledge
    - Heritage: Elder from Shark Tooth's homeland
